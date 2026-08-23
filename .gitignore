@@ -1,0 +1,17 @@
+# Cadence / EDA generated files
+*.log
+*.cdslck
+*.tmp
+*.swp
+*.bak
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated reports / temporary files
+*.out
+*.history
+*.backup
